@@ -17,7 +17,7 @@ My name is Amraoui NasrEddine
 # Skills
 <div align="center">
   <h3>Front-End</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind" />
   <h3>Back-End</h3>
   <img src="https://skillicons.dev/icons?i=php,nodejs,python" />
   <h3>Android Dev</h3>
@@ -26,7 +26,7 @@ My name is Amraoui NasrEddine
   <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   <h3>Game Dev</h3>
-  <img src="https://skillicons.dev/icons?i=cs,unity,godot" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,godot,unreal" />
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,powershell,vite,npm,visualstudio,vscode,androidstudio,pycharm" />&nbsp;
 </div>
