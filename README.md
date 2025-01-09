@@ -26,7 +26,7 @@ My name is Amraoui NasrEddine
   <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   <h3>Game Dev</h3>
-  <img src="https://skillicons.dev/icons?i=cs,unity,godot,unreal" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,unreal" />
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,powershell,vite,npm,visualstudio,vscode,androidstudio,pycharm" />&nbsp;
 </div>
