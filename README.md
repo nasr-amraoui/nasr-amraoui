@@ -29,7 +29,6 @@ My name is Amraoui NasrEddine
   <img src="https://skillicons.dev/icons?i=cs,unity,godot" />
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,powershell,vite,npm,visualstudio,vscode,androidstudio,pycharm" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" height="47px" />
 </div>
 
 <br>
@@ -45,7 +44,7 @@ My name is Amraoui NasrEddine
 <br>
 
 # Portfolio
-Check Out My Personal Portfolio: <a href="#">Coming Soon</a>
+Check Out My Personal Portfolio <a href="[#](https://amr-dev-500ab.web.app/)">Here</a>
 
 <br>
 
