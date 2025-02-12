@@ -21,23 +21,31 @@ My name is Amraoui NasrEddine
   <h3>Back-End</h3>
   <img src="https://skillicons.dev/icons?i=php,nodejs,python" />
   <h3>Mobile Dev</h3>
-  <img src="https://skillicons.dev/icons?i=kotlin,jetpackcompose,flutter,dart,swift" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,swift" />
   <h3>Database</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,room" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
   <h3>Game Dev</h3>
   <img src="https://skillicons.dev/icons?i=unity,godot,unreal" />
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,powershell,npm,visualstudio,vscode,androidstudio,pycharm" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,powershell,bash,npm,visualstudio,vscode,androidstudio,pycharm" />&nbsp;
+  <h3>Software I Use</h3>
+  <img src="https://skillicons.dev/icons?i=figma,blender,ai,ps,pr" />
 </div>
 
 <br>
 
 # Contact
-<a href="https://www.linkedin.com/in/nadir-el-ouadghiri-518080209/">
+<a href="https://www.linkedin.com/in/nasreddine-amraoui-469928245/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:nadirelouadghiri03@gmail.com">
+<a href="mailto:nasreddine.amraoui.2004@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://discord.gg/SbzkF2fhhu">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+<a href="https://www.instagram.com/amraoui_nasreddine/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <br>
