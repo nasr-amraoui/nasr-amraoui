@@ -1,8 +1,8 @@
-<h3 align="center">Hi 👋! My name is AMRAOUI Nasreddine, I'm a web & mobile app developer 👨‍💻 from Morocco 🇲🇦</h3>
+<h2 align="left">Hi 👋! My name is AMRAOUI Nasreddine, I'm a web & mobile app developer 👨‍💻 from Morocco 🇲🇦</h2>
 
 ###
 
-<img align="left" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkwZ3d2YXlxcnY4NGZoam41M2w1NmJ3M3N0Z3Zza2k3dXRpempuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif"  />
+<img align="left" height="180" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47him9mo4l5jo5kqj4uybp0bie2ip018h3j7r6s22r&ep=v1_gifs_search&rid=giphy.gif"  />
 
 ###
 
@@ -31,10 +31,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="120" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47him9mo4l5jo5kqj4uybp0bie2ip018h3j7r6s22r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
