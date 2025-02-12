@@ -17,18 +17,18 @@ My name is Amraoui NasrEddine
 # Skills
 <div align="center">
   <h3>Front-End</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
   <h3>Back-End</h3>
   <img src="https://skillicons.dev/icons?i=php,nodejs,python" />
   <h3>Android Dev</h3>
   <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" height="47px" />&nbsp;
   <img src="https://skillicons.dev/icons?i=flutter,swift" />
   <h3>Database</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,room" />
   <h3>Game Dev</h3>
   <img src="https://skillicons.dev/icons?i=unity,godot,unreal" />
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,powershell,vite,npm,visualstudio,vscode,androidstudio,pycharm" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,powershell,npm,visualstudio,vscode,androidstudio,pycharm" />&nbsp;
 </div>
 
 <br>
