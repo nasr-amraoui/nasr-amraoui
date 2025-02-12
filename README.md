@@ -21,8 +21,7 @@ My name is Amraoui NasrEddine
   <h3>Back-End</h3>
   <img src="https://skillicons.dev/icons?i=php,nodejs,python" />
   <h3>Mobile Dev</h3>
-  <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" height="47px" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,swift" />
+  <img src="https://skillicons.dev/icons?i=kotlin,jetpackcompose,flutter,dart,swift" />
   <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,room" />
   <h3>Game Dev</h3>
