@@ -3,13 +3,13 @@ Hello Everyone <img src="https://github.com/user-attachments/assets/eca030c6-0c4
 My name is Amraoui NasrEddine
 -----------------------------------------------------------------------------------------------------------------
 
-- 🌍  I live in Sale, Morocco
-- 🧠  I'm a mobile app devlopper
-- 🔭 I’m currently working on ...
+- 🌍 I live in Sale, Morocco
+- 🧠 I'm a web & mobile app devlopper
+- 🔭 I’m currently working on a gallery app called "Moments"
 - 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on your future projects, let's build something BIG
+- 👯 I’m looking to collaborate on your future projects, let's build something BIIIG
 - 🤔 I’m looking for help with my web development experience and deep knowledge
-- ✉️  You can contact me at my email address: [nasreddine.amraoui.2004@gmail.com](mailto:nasreddine.amraoui.2004@gmail.com)
+- ✉️ You can contact me at my email address: [nasreddine.amraoui.2004@gmail.com](mailto:nasreddine.amraoui.2004@gmail.com)
 - ⚡ Fun fact: I have pretty good gaming skills, and I also love playing chess  
 
 <br>
@@ -35,11 +35,11 @@ My name is Amraoui NasrEddine
 <br>
 
 # Contact
-<a href="https://www.linkedin.com/in/nasreddine-amraoui-469928245/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
 <a href="mailto:nasreddine.amraoui.2004@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/nasreddine-amraoui-469928245/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://discord.gg/SbzkF2fhhu">
   <img src="https://skillicons.dev/icons?i=discord" />
@@ -69,6 +69,3 @@ Check Out My Personal Portfolio <a href="https://amr-dev-500ab.web.app">Here</a>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasr-amraoui&layout=compact&theme=algolia)
 
 <br>
-
-# Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasr-amraoui&layout=compact&theme=algolia)
