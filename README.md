@@ -48,7 +48,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="25" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" alt="firebase logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo"  />
   <img width="10" />
