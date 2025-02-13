@@ -9,7 +9,6 @@
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasr-amraoui&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=nasr-amraoui&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nasr-amraoui&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="120" alt="streak graph"  />
 </div>
 
 ###
