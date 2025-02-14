@@ -38,41 +38,41 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="45" alt="php logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="sqlite logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45" alt="firebase logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/swift/F05138" height="50" alt="swift logo"  />
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="45" alt="swift logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="45" alt="unity logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="50" alt="godot logo"  />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="45" alt="godot logo"  />
 </div>
 
 ###
