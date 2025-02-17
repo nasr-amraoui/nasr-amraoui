@@ -66,6 +66,8 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
   <img width="10" />
+  <img src="https://cdn.simpleicons.org/npm/F05032" height="45" alt="npm logo"  />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
