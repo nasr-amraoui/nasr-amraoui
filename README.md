@@ -52,6 +52,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="sqlite logo"  />
   <img width="10" />
+  <img src="https://cdn.simpleicons.org/supabase" height="45" alt="supabase logo"/>
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45" alt="firebase logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
