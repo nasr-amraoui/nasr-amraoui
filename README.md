@@ -72,9 +72,8 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="45" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/postman" height="45" alt="postman logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="45" alt="godot logo"  />
 </div>
 
 ###
